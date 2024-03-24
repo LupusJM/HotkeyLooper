@@ -1,4 +1,4 @@
-# HotkeyLooper
+# HotkeyLooper + v2
 >Really quickly written for my use
 ## Features
 
@@ -6,6 +6,9 @@
 - **Automated Input**: Clicking "Start" initiates the script to send the "g" key every 5 seconds, allowing for automated actions.
 - **Manual Control**: Users can manually halt the script execution by clicking the "Stop" button or pressing the "Esc" key.
 - **Customizable**: The script allows for easy customization of input buttons and repeat intervals, catering to diverse automation needs.
+## Features v2
+
+- Script on the same basis, just AltTabbing between two windows.
 
 ## Usage
 
